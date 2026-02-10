@@ -9,7 +9,7 @@ I'm a passionate front-end developer from the DRC, focused on building clean and
 * 🌍  I'm based in Kinshasa
 * 🖥️  See my portfolio at [Henock-Lite](http://henock-lite-portfolios.netlify.app/#home)
 * ✉️  You can contact me at [henocklittemanya@gmail.com](mailto:henocklittemanya@gmail.com)
-* 🚀  I'm currently working on [React Movies App](http://github.com/Henock-Lite/Movie-app.git)
+* 🚀  I'm currently working on [Crypto-watch](https://github.com/Henock-Lite/crypto-watch)
 * 🧠  I'm currently learning PHP, Node.js, Next.js, Advanced React
 * 💬  Ask me about I care a lot about UI details and user experience
 
