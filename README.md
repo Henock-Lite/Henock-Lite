@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Henock Lite
 ====================================================================================================================================
 
-Front-end Engineer
+ Engineer 
 ------------------
 
-I'm a passionate front-end developer from the DRC, focused on building clean and user-friendly web interfaces. I started with HTML, CSS, and JavaScript, and I enjoy creating small projects to learn by doing. Currently, I'm strengthening my skills in React while also exploring PHP, Node.js, and Next.js. I care a lot about UI details, user experience, and clean code. All my projects are available online, and I love sharing my progress while learning new technologies.
+I'm a passionate front-end developer and back-end from the DRC, focused on building clean and user-friendly web interfaces. I started with HTML, CSS, and JavaScript, and I enjoy creating small projects to learn by doing. Currently, I'm strengthening my skills in React while also exploring PHP, Node.js, and Next.js. I care a lot about UI details, user experience, and clean code. All my projects are available online, and I love sharing my progress while learning new technologies.
 
 * 🌍  I'm based in Kinshasa
 * 🖥️  See my portfolio at [Henock-Lite](http://henock-lite-portfolios.netlify.app/#home)
