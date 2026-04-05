@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Henock Lite
 ====================================================================================================================================
 
- Engineer 
+ Future Cybersecurity & DevSecOps Engineer
 ------------------
 
-I'm a passionate front-end developer and back-end from the DRC, focused on building clean and user-friendly web interfaces. I started with HTML, CSS, and JavaScript, and I enjoy creating small projects to learn by doing. Currently, I'm strengthening my skills in React while also exploring PHP, Node.js, and Next.js. I care a lot about UI details, user experience, and clean code. All my projects are available online, and I love sharing my progress while learning new technologies.
+Passioned Full-stack Developer transitioning into Cybersecurity. I build robust web applications with React, Laravel, and Node.js, with a growing focus on Security by Design and infrastructure protection.
 
 * 🌍  I'm based in Kinshasa
+* 🛡️ Specialized in Full-stack Dev & Network Security.
 * 🖥️  See my portfolio at [Henock-Lite](http://henock-lite-portfolios.netlify.app/#home)
 * ✉️  You can contact me at [henocklittemanya@gmail.com](mailto:henocklittemanya@gmail.com)
 * 🚀  I'm currently working on [Crypto-watch](https://github.com/Henock-Lite/crypto-watch)
-* 🧠  I'm currently learning PHP, Node.js, Next.js, Advanced React
+* 🧠  I'm currently learning PHP, Laravel, Next.js, Advanced React
 * 💬  Ask me about I care a lot about UI details and user experience
 
 <p align="left">
