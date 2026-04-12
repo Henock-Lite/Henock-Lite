@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Future Cybersecurity & DevSecOps Engineer
 ------------------
 
-Passioned Full-stack Developer transitioning into Cybersecurity. I build robust web applications with React, Laravel, and Node.js, with a growing focus on Security by Design and infrastructure protection.
+Passioned Full-stack Developer transitioning into Cybersecurity. I build robust web applications with React, Laravel with a growing focus on Security by Design and infrastructure protection.
 
 * 🌍  I'm based in Kinshasa
 * 🛡️ Specialized in Full-stack Dev & Network Security.
